@@ -1,0 +1,7 @@
+.NavBar{
+    grid-area: n;
+    background-color: crimson;
+  }
+ .item {
+  color: gold;
+ } 

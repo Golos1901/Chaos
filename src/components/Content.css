@@ -1,0 +1,10 @@
+.Content {
+    grid-area: c;
+    background-color:coral
+  }
+  .Content img {
+    width:25cm;
+  }
+  .items{
+    color: rgb(49, 49, 47);
+  }
