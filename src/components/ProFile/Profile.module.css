@@ -1,0 +1,11 @@
+.Content {
+    grid-area: c;
+    background-color:coral
+  }
+ .items {
+  color: gold;
+  font-family: "Snell Roundhand"
+ }
+ .activ{
+  color: maroon;
+ }

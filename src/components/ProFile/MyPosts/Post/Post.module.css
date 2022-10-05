@@ -1,0 +1,9 @@
+.items {
+  color: gold;
+  font-family: "Snell Roundhand"
+ }
+ .items img{
+  width: 80px;
+    border-radius: 50%;
+    height: 80;
+ }
